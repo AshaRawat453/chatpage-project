@@ -1,0 +1,18 @@
+.chat-container {
+    width: 600px;
+    height:700px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    background: url(https://i.pinimg.com/564x/91/d9/3b/91d93bd594d0fe8f9891b0e9334c7d2b.jpg) center/cover no-repeat fixed; 
+}
+.message {
+    background-color:#415a77;
+    padding: 8px;
+    margin-bottom:10px;
+}
+
+.message.received {
+    background-color: #669bbc;
+}
